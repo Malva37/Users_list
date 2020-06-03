@@ -1,0 +1,20 @@
+.main {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.table,
+.form-group {
+    width: 45%;
+    margin: 2%;
+
+}
+
+.edit {
+    display: none;
+    border: 1px solid green;
+    border-radius: 5px;
+    width: 30%;
+    height: 30px;
+    color: green;
+}
